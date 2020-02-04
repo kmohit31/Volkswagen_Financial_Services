@@ -13,3 +13,4 @@ Scenario: Vehicle Search
      # Then I should see APK
     
     Then I should see "RecordNotFoundResult"
+    Then I should see searchText Button
