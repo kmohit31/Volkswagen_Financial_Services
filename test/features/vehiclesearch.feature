@@ -26,6 +26,7 @@ Scenario: Vehicle Search
     When I enter "validregNumber" in "Registration" textfield
     When I clear the "Registration" textfield
     Then I should see "ErrorMessage"
+    #Adding comment
 
 ########## Defect when executing Gherkin statment 27 there is no error message popup ########
 
