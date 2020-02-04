@@ -17,3 +17,9 @@ When(
     /^I clear the "([^"]*)?" textfield$/,
     clearField
 )
+
+//Additional code for pull/push practise
+When(
+    /^I clear a "([^"]*)?" text2field$/,
+    clearField
+)
