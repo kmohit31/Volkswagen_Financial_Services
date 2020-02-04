@@ -19,6 +19,7 @@ When(
 )
 
 //Additional code for pull/push practise
+    //added comment
 When(
     /^I clear a "([^"]*)?" text2field$/,
     clearField
