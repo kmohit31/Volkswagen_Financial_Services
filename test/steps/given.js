@@ -5,3 +5,7 @@ Given(
         /^I launch the "([^"]*)" website$/, 
         openWebSite
     );
+    Given(
+        /^I Open the "([^"]*)" website$/, 
+        openWebSite
+    );
