@@ -9,7 +9,7 @@ const openWebSite = require('../support/action/openWebsite');
         /^I Open the "([^"]*)" website$/, 
         openWebSite
 
-        //comment
+        
     );
 
     
