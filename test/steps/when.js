@@ -22,5 +22,5 @@ When(
     
 When(
     /^I clear a "([^"]*)?" text2field$/,
-    clearField
+    clickButton
 )
