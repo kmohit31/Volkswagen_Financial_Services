@@ -1,7 +1,7 @@
 const { Given } = require('cucumber');
 const openWebSite = require('../support/action/openWebsite');
 
-Given(
+    Given(
         /^I launch the "([^"]*)" website$/, 
         openWebSite
     );
