@@ -8,8 +8,4 @@ const openWebSite = require('../support/action/openWebsite');
     Given(
         /^I Open the "([^"]*)" website$/, 
         openWebSite
-        
-        
     );
-
-    
