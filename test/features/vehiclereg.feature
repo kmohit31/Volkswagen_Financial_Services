@@ -10,6 +10,6 @@ Scenario: Vehicle Search
     # Then I should see "VehicleRegistrationSubtitle"
     When I enter "invalidregNumber" in "Registration" textfield
     When I click on "Findvehicle" button
-    Then I should see APK
+     # Then I should see APK
     
-    #Then I should see "RecordNotFoundResult"
+    Then I should see "RecordNotFoundResult"
