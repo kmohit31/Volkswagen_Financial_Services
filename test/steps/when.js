@@ -18,9 +18,4 @@ When(
     clearField
 )
 
-//Additional code for pull/push practise
-    
-When(
-    /^I clear a "([^"]*)?" text2field$/,
-    clearField
-)
+//Removing the additional code
