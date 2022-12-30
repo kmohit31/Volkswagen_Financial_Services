@@ -16,7 +16,7 @@
     "webdriverio": "^5.13.1"
   },
   "devDependencies": {
-    "@rpii/wdio-html-reporter": "^0.8.0",
+    "@rpii/wdio-html-reporter": "^7.7.1",
     "@wdio/appium-service": "^5.12.1",
     "@wdio/cucumber-framework": "^5.13.0",
     "@wdio/dot-reporter": "^5.12.1",
